@@ -1,7 +1,6 @@
 ---
 #pull from base image
-FROM===BASE IMAGE
-TOMCAT
+FROM tomcat
 
 #Author
 MAINTAINER peter
